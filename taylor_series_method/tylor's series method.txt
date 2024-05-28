@@ -44,7 +44,8 @@ Physics: Modeling the motion of particles in a potential field.
 Finance: Estimating the future value of financial derivatives based on their current value and rate of change.
 The Taylor series method provides a powerful tool for approximating solutions to differential equations, particularly useful in fields requiring precise numerical methods.
 
-<H1>...................</H1>The Taylor series method is a numerical technique used to approximate solutions to differential equations by expanding functions into their Taylor series. This method is particularly useful in various real-life applications where precision and accuracy are essential.
+<h1>.............................</h1>
+The Taylor series method is a numerical technique used to approximate solutions to differential equations by expanding functions into their Taylor series. This method is particularly useful in various real-life applications where precision and accuracy are essential.
 REAL LIFE EXAMPLE:
 Engineering and Mechanics:
 
