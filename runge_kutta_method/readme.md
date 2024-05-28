@@ -1,7 +1,8 @@
-<h1>A higher order method provides more accurate opportunities of the solution compare to the lower order method </h1>
-<h1>...........</h1>
-<h1>1.. FIRST ORDER METHOD : would approximate the path by connecting the starting poit to the ending point with a single staight line segment.</h1>
-<h1>SECOND ORDER METHOD : usese two lines segment for finding out the curve path.</h1>
+<h1>Runge Kutta Method</h1>
+<h2>A higher order method provides more accurate opportunities of the solution compare to the lower order method </h2>
+<h2>...........</h2>
+<h2>1.. FIRST ORDER METHOD : would approximate the path by connecting the starting poit to the ending point with a single staight line segment.</h2>
+<h2>2.. SECOND ORDER METHOD : usese two lines segment for finding out the curve path.</h2>
   <br/>
   <br>
   what is the use of this method 
