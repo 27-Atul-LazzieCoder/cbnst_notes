@@ -30,6 +30,7 @@ Economics and Finance:
 RK4 is used in economics to model economic growth, market dynamics, and financial systems where variables change continuously over time.
 The Runge-Kutta method, especially the fourth-order version (RK4), is used for numerically solving ordinary differential equations (ODEs). It’s a very powerful and versatile tool in computational mathematics, engineering, and the sciences. Here are some key uses and advantages:
 
+<h2>...............................................</h2>
 Solving Initial Value Problems (IVPs):
 
 RK4 is particularly useful for solving initial value problems where the solution to an ODE needs to be determined given an initial state.
@@ -52,7 +53,7 @@ RK4 is used in economics to model economic growth, market dynamics, and financia
 Overall, the RK4 method provides a robust and efficient way to approximate the solutions of differential equations that arise in various fields, making it a fundamental tool in numerical analysis and computational modeling.
 
 
-
+<h2>...............................................</h2>
 
 in real life
 
